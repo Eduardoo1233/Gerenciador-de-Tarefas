@@ -1,3 +1,4 @@
+alert("JS carregou");
 const input = document.getElementById("tarefa");
 const btn = document.getElementById("adicionar");
 const lista = document.getElementById("lista");
